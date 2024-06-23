@@ -22,7 +22,7 @@ You can also contribute with a :beers: IRL or using Github Sponsoring button.
 ## Install
 
 ```basic
-$ git clone https://github.com/techanvconsulting/GraphQLmap
+$ git clone https://github.com/techanv-bot/GraphQLmap
 $ python setup.py install
 $ graphqlmap                                                              
    _____                 _      ____  _                            
