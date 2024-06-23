@@ -9,7 +9,7 @@ setuptools.setup(
     description="scripting engine to interact with a GraphQL endpoint for pentesting purposes",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/techanvconsulting/GraphQLmap",
+    url="https://github.com/techanv-bot/GraphQLmap",
     packages=setuptools.find_packages(),
     scripts=["bin/graphqlmap"],
     classifiers=[
